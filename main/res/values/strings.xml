@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Test App</string>
+    <string name="hello_text">سلام دنیا! این برنامه تست من است</string>
+    <string name="click_me">کلیک کن</string>
+</resources>
